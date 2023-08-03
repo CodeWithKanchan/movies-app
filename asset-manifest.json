@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeWithKanchan/movies-app/static/css/main.65490d0d.css",
+    "main.js": "/CodeWithKanchan/movies-app/static/js/main.b6e62748.js",
+    "index.html": "/CodeWithKanchan/movies-app/index.html",
+    "main.65490d0d.css.map": "/CodeWithKanchan/movies-app/static/css/main.65490d0d.css.map",
+    "main.b6e62748.js.map": "/CodeWithKanchan/movies-app/static/js/main.b6e62748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65490d0d.css",
+    "static/js/main.b6e62748.js"
+  ]
+}
